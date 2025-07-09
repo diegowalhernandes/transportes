@@ -125,3 +125,39 @@ nav {
         max-width: 30%;
     }
 }
+
+/* Service */
+#service {
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+}
+#service .cards-container{
+    height: 300px;
+    justify-content: space-between;
+}
+#service .card{
+
+}
+
+/* About */
+#about {
+    background-color: #ccc;
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Contact */
+#contact {
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+}
